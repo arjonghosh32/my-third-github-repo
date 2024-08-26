@@ -1,0 +1,31 @@
+
+body {
+    background-image: url("plain-white-background-xdwiksazlsuzkuhi.jpg");
+  }
+  
+
+
+img {
+    
+    /* padding: 250px; */
+    height: 200px;
+    width: 300px;
+
+    
+}
+h1{
+    color: red;
+   
+}
+h3 {
+    color: green;
+}
+
+
+strong {
+    color: red;
+}
+
+footer {
+    color: red;
+}
