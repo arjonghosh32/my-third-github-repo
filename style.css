@@ -32,13 +32,14 @@ footer {
 header{
     display:flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
 }
 header img{
     display: block;
-    width: 700px;
-    height: 500px;
+    width: 400px;
+    height: 300
+    px;
     
 }
 
